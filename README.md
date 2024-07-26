@@ -1,0 +1,2 @@
+teclado:
+pulo - espaço
